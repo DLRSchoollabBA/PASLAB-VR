@@ -1,4 +1,6 @@
 {
+ "start_url": "index.htm",
+ "name": "PASLAB_Dev3",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "PASLAB_Dev1",
- "start_url": "index.htm",
  "display": "fullscreen",
- "background_color": "#000000",
- "theme_color": "#000000"
+ "theme_color": "#000000",
+ "background_color": "#000000"
 }
